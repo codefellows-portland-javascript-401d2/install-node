@@ -1,1 +1,5 @@
-console.log('hello, Kate');
+console.log('hello, Kate.');
+
+setTimeout(function() {
+  console.log('See you later.');
+}, 6000)
