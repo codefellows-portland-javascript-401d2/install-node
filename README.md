@@ -24,7 +24,7 @@ global packages. You will need curl, python v2.x a C compiler(gcc or clang) and 
 These can be obtained through whatever package manager your operating system uses (homebrew on Mac, apt-get on Ubuntu, etc).
 
 ```sh
-curl -O https://nodejs.org/dist/v4.4.3/node-v6.1.0.tar.gz
+curl -O https://nodejs.org/dist/latest/node-v6.1.0.tar.gz
 tar -vxzf node-v6.1.0.tar.gz
 cd node-v6.1.0
 ./configure --prefix=$HOME/.node
