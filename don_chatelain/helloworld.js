@@ -1,1 +1,3 @@
-console.log('hello, Don');
+var myName = 'Don';
+
+console.log('hello,', myName);
