@@ -72,8 +72,8 @@ of the original Assignment. Then submit the url of your pull request into canvas
 The final instruction for this assignment is to write a hello world program, and submit it by following the previous instructions.
 * Fork this repository
 * Clone your fork
-* Make a directory named `yourname`
-* Crate a branch named `yourname-helloworld`
+* Make a directory named `@yourname`, e.g. `@martypdx`
+* Crate a branch named `helloworld`
 * In the directory with your name make a javascript file called helloworld.js
 * In helloworld.js write  
 
